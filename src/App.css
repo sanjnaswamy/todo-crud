@@ -1,0 +1,15 @@
+ul {
+    list-style: none;
+    padding: 0;
+    li {
+        margin-bottom: 0.5rem;
+    }
+}
+
+.todo-item-completed {
+    text-decoration: line-through;
+}
+
+button {
+    margin-left: 1rem;
+}
